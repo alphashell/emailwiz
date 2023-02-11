@@ -41,8 +41,7 @@ sizeable network of people with email servers thanks to this script.
 
 ## Prerequisites for Installation
 
-1. Debian or Ubuntu server. I suited this script for
-   [Vultr](https://www.vultr.com/?ref=8940911-8H) servers originally, but it
+1. Debian or Ubuntu server. I suited this script for Vultr servers originally, but it
    seems to work on most other default setups on different VPS providers.
 2. DNS records that point at least your domain's `mail.` subdomain to your
    server's IP (IPv4 and IPv6). This is required on initial run for certbot to
@@ -114,18 +113,15 @@ to log in remotely though:
 Let's say you want to access your mail with Thunderbird or mutt or another
 email program. For my domain, the server information will be as follows:
 
-- SMTP server: `mail.lukesmith.xyz`
+- SMTP server: `mail.alphadomain.xyz`
 - SMTP port: 465
-- IMAP server: `mail.lukesmith.xyz`
+- IMAP server: `mail.alphadomain.xyz`
 - IMAP port: 993
 
 ## Benefited from this?
 
 I am always glad to hear this script is still making life easy for people. If
 this script or documentation has saved you some frustration, donate here:
-
-- btc: `bc1qzw6mk80t3vrp2cugmgfjqgtgzhldrqac5axfh4`
-- xmr: `8A5v4Ci11Lz7BDoE2z2oPqMoNHzr5Zj8B3Q2N2qzqrUKhAKgNQYGSSaZDnBUWg6iXCiZyvC9mVCyGj5kGMJTi1zGKGM4Trm`
 
 ## Sites for Troubleshooting
 
