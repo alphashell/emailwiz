@@ -4,7 +4,7 @@ This script installs an email server with all the features required in the
 modern web.
 
 ```sh
-curl https://github.com/alphashell/emailwiz/blob/master/emailwiz.sh
+curl -LO lukesmith.xyz/emailwiz.sh
 ```
 
 When prompted by a dialog menu at the beginning, select "Internet Site", then
