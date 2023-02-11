@@ -7,7 +7,7 @@ I've linked this file on Github to a shorter, more memorable address on my
 website so you can get it on your machine with this short command:
 
 ```sh
-curl -LO https://github.com/alphashell/emailwiz
+curl -LO https://github.com/alphashell/emailwiz.sh
 ```
 
 When prompted by a dialog menu at the beginning, select "Internet Site", then
